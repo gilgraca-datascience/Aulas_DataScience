@@ -21,5 +21,7 @@ import numpy as np
 # no site github (ondte o terminal indica pra executar algo) teremos  opções de verificar no master ou no develop, no caso aqui criado.
 # TAmbém é possivel fazer a confirm merge, que é a mesclagem do código, daí passa a fazer parte também do código em master
 
+# Para visuzalizar a mesclagem dos códigos em master, depois de ser feito isso no site, precisamos usar no terminal assim:
+#... git pull  # isso é temos que ja estar em master. pra que o que foi feito em develop...
 
 
