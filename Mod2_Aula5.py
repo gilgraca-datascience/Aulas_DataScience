@@ -6,4 +6,16 @@
 
 # usar esse código para salvar uma versão, toda vez que houver uma mudança:
 ## git add Mod2_Aula5.py  # Esse serve para adicionar o arquivo
-## gir commit -m "my first"
+## git commit -m "my first commit"
+# Agora com o github já aberto e com a conta criada, criar um repositório lá e vincular o nosso arvuivo aqui.
+## usar então no terminal assim: De acordo com o que foi feito. git remote add origin https://github.com/gilgraca-datascience/Aulas_DataScience.git
+# toda vez que precisar salvar uma versão do código (Salvar o codigo antes disso), usar o terminal nos seguintes passos:
+##git add Mod2_Aula5.py
+##git commit -m "Mensagem descritiva da mudança"
+##git push # para enviar o arquivo pra nuvem github
+
+import pandas as pd
+import matplotlib.pylab as plt
+import numpy as np
+
+
